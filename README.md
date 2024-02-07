@@ -1,10 +1,7 @@
 # Robust-Koopman-MPC
 
 
-# Distributed Safe Online Learning Control Project
-
-
-This repository contains material related to the project on `Distributed Safe Online Learning Control`.  
+This repository contains material related  to the Automatica article "Robust tube-based model predictive control with Koopman operators"  
 
 ## Table of Contents
 
