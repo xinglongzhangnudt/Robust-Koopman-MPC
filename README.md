@@ -17,7 +17,7 @@ To run the code in this repository, follow the instructions below.
 
 1. Install the necessary MPT and Yalmip toolbox.
    
-2. Run "MPC_koopman_kernel".
+2. Run "MPC_koopman_kernel.m".
 
 ## Reference
 
