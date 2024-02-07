@@ -22,5 +22,4 @@ To run the code in this repository, follow the instructions below.
 ## Reference
 
 [1] Xinglong Zhang, et al. "Robust tube-based model predictive control with Koopman operators." Automatica 137 (2022): 110114.
-
 [2] Xinglong Zhang, et al. Robust learning-based predictive control for discrete-time nonlinear systems with unknown dynamics and state constraints[J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 52(12): 7314-7327.
