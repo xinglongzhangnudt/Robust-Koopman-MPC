@@ -1,7 +1,7 @@
 # Robust-Koopman-MPC
 
 
-This repository contains material related  to the Automatica article "Robust tube-based model predictive control with Koopman operators"  
+This repository contains an example for implementing "Robust tube-based MPC with Koopman operators"  
 
 ## Table of Contents
 
