@@ -20,6 +20,7 @@ To run the code in this repository, follow the instructions below.
 2. Run "MPC_koopman_kernel.m".
 
 ## Reference
+Please cite the following references:
 
 [1] Xinglong Zhang, et al. "Robust tube-based model predictive control with Koopman operators." Automatica 137 (2022): 110114.
 
